@@ -4,10 +4,10 @@ This project aims to provide a comprehensive analysis of electric vehicles (EVs)
 # Key points-
 
 # Data Sources: 
-             We have collected and curated datasets from kaggle.
+We have collected and curated datasets from kaggle.
 # Statistical Analysis: 
-                 We have conducted statistical tests and regression analysis to uncover correlations and trends within the data. These analyses can be valuable for predicting 
-                 future EV adoption rates and identifying factors that influence consumer choices.
+We have conducted statistical tests and regression analysis to uncover correlations and trends within the data. These analyses can be valuable for predicting 
+future EV adoption rates and identifying factors that influence consumer choices.
 
 # License:
 This project is open-source and released under the MIT License. Feel free to use our code and findings in your own research or applications.
